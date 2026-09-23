@@ -21,6 +21,18 @@ a:hover {
   margin-bottom: 20px }
 .paper .title {
   /*text-transform: uppercase; */}
+.paper .press-title {
+  font-size: 1.2em;
+  font-weight: bold; }
+.paper .press-title-row {
+  display: flex;
+  align-items: center;
+  gap: 10px; }
+.paper .press-title-row .press-title {
+  margin-bottom: 0; }
+.paper .press-list {
+  list-style: none;
+  padding-left: 15pt; }
 .paper p {
   margin-bottom: 2px }
 .paper .award {
